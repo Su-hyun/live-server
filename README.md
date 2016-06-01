@@ -1,8 +1,8 @@
 # live-server
 ###nodeJS live-server
 
-local 에 임의로 서버를 구성하여 브라우져에 작업하는 내용을 에디터에서 저장을 하게 되면<br>
-브라우져에 실시간으로 변경 사항을 적용하여 보여준다.
+local 에 임의로 서버를 구성하여 브라우져에 작업하는 내용을 에디터에서 저장을 하여<br>
+파일 내용이 변경되면 이를 브라우져에 실시간으로 보여준다.
 
 ### 참고 영상
 [https://youtu.be/zdfM6fst-84](https://youtu.be/zdfM6fst-84)
