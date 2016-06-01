@@ -1,5 +1,5 @@
 # live-server
-nodeJS live-server
+###nodeJS live-server
 
 local 에 임의로 서버를 구성하여 브라우져에 작업하는 내용을 에디터에서 저장을 하게 되면<br>
 브라우져에 실시간으로 변경 사항을 적용하여 보여준다.
@@ -18,7 +18,7 @@ local 에 임의로 서버를 구성하여 브라우져에 작업하는 내용�
     $npm install -g live-server
     ```
    
-03. teminal (=windows cmd)을 열어서 live-server 사용할 작업 폴더 경로를 맞추고 실행
+03. teminal (=windows cmd)을 열어서 live-server 사용할 작업 폴더 경로를 맞추고 실
     ```
     $live-server
     ```
