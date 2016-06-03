@@ -1,7 +1,7 @@
 # live-server
 ###nodeJS live-server
 
-local 에 임의로 서버를 구성하여 작업하는 내용을 browser에서 간편하게 확인 할 수 있게 도와주는 도구로서 에디터에서 작업 내용을 저장할 때 마다 변경된 내용을 browser에 실시간으로 보여준다.<br>즉, 새로고침을 할 필요가 없다.
+local 에 임의로 서버를 구성하여 작업하는 내용을 browser에서 간편하게 확인 할 수 있게 도와주는 도구로서 에디터에서 작업 내용을 저장할 때 마다 변경된 내용을 browser에 실시간으로 보여준다.<br>즉, 새로고침을 할 필요가 없습니다.
 
 ### 참고 영상
 [https://youtu.be/zdfM6fst-84](https://youtu.be/zdfM6fst-84)
