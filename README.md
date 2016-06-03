@@ -17,7 +17,7 @@ local 에 임의로 서버를 구성하여 작업하는 내용을 browser에서 
     $npm install -g live-server
     ```
    
-03. teminal (=windows cmd)을 열어서 live-server 사용할 작업 폴더 경로를 맞추고 실행
+03. terminal (=windows cmd)을 열어서 live-server 사용할 작업 폴더 경로를 맞추고 실행
     ```
     $live-server
     ```
